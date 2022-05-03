@@ -8,7 +8,7 @@
  * 3rd table called chatusers--each row contains a chat ID and a username of
  * a user in that chat. 
  *
- * @author Michael Dolan (mdolan5)
+ * @author mdolan2
  * @bug No known bugs.
  */
  
