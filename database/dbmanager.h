@@ -2,7 +2,7 @@
  * @file dbmanager.h
  * @class Database dbmanager.h "server/dbmanager.h"
  * @brief This contains the prototypes for the database manager and all the global variables needed.
- * @author Michael Dolan (mdolan5)
+ * @author mdolan2
  * @bug No known bugs
  */
  
